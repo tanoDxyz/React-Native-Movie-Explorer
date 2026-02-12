@@ -1,3 +1,10 @@
+![Home Screen](2.png)
+![Details Screen](1.png)
+![Search Screen](3.png)
+![Favorite Screen](4.png)
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
