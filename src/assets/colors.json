@@ -1,0 +1,11 @@
+{
+    "globalColors": {
+        "primary": "#8000FFFF",
+        "primaryOpaque":"#4D00FFFF",
+        "secondary": "#FFA500",
+        "background": "#f5f5f5",
+        "text": "#333333",
+        "gray":"0xFFCCCCCC"
+    }
+}
+

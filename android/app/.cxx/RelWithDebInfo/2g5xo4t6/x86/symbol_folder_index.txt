@@ -1,0 +1,1 @@
+/Users/tanveer1807/react-native-projects/MovieExplorer/android/app/build/intermediates/cxx/RelWithDebInfo/2g5xo4t6/obj/x86
