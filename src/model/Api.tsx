@@ -2,7 +2,7 @@
 import { Movie, Search, TMDB, TrendingResults } from 'tmdb-ts';
 import { useCallback, useEffect, useState } from "react";
 
-const tmdb = new TMDB('eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmODQ4ZGE5NWI1M2JjODg3MzUzYThmN2Q1MjZiMjBlZCIsIm5iZiI6MTc2OTQ5NjE3My40OTYsInN1YiI6IjY5Nzg1ZTZkNjBlYzBmYzIzZDY5NTI0ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.9q5gDKNJnjl6BktThbNKYQJCCUni2E3sySBvxKZIeGo');
+const tmdb = new TMDB('Your tmdb access token');
 const TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/";
 const DEFAULT_POSTER_SIZE = "w500";
 const MOVIE_PAGES_TO_LOAD = 5
